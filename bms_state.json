@@ -1,5 +1,85 @@
 {
   "shows": {
+    "INPR|61708|20260717|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:10 AM",
+      "date": "20260717",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "1"
+    },
+    "INPR|62536|20260717|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "12:45 PM",
+      "date": "20260717",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "1"
+    },
+    "INPR|62539|20260717|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "04:10 PM",
+      "date": "20260717",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "1"
+    },
+    "INPR|61709|20260717|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:40 PM",
+      "date": "20260717",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "1"
+    },
+    "INPR|62538|20260717|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:15 PM",
+      "date": "20260717",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "1"
+    },
+    "PVPZ|33666|20260717|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "09:00 AM",
+      "date": "20260717",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "0"
+    },
+    "PVPZ|34634|20260717|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "12:30 PM",
+      "date": "20260717",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "2"
+    },
+    "PVPZ|34635|20260717|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "04:00 PM",
+      "date": "20260717",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "2"
+    },
+    "PVPZ|33667|20260717|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "07:30 PM",
+      "date": "20260717",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "1"
+    },
+    "PVPZ|34636|20260717|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "11:10 PM",
+      "date": "20260717",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "1"
+    },
     "INPR|61710|20260718|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
       "time": "09:10 AM",
@@ -159,86 +239,6 @@
       "cat": "ELITE",
       "price": "508.34",
       "status": "2"
-    },
-    "INPR|61708|20260717|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:10 AM",
-      "date": "20260717",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "1"
-    },
-    "INPR|62536|20260717|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "12:45 PM",
-      "date": "20260717",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "1"
-    },
-    "INPR|62539|20260717|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "04:10 PM",
-      "date": "20260717",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "1"
-    },
-    "INPR|61709|20260717|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:40 PM",
-      "date": "20260717",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "1"
-    },
-    "INPR|62538|20260717|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:15 PM",
-      "date": "20260717",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "1"
-    },
-    "PVPZ|33666|20260717|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "09:00 AM",
-      "date": "20260717",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "0"
-    },
-    "PVPZ|34634|20260717|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:30 PM",
-      "date": "20260717",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
-    },
-    "PVPZ|34635|20260717|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "04:00 PM",
-      "date": "20260717",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
-    },
-    "PVPZ|33667|20260717|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "07:30 PM",
-      "date": "20260717",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "0"
-    },
-    "PVPZ|34636|20260717|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "11:10 PM",
-      "date": "20260717",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "1"
     }
   },
   "dates": {
