@@ -102,7 +102,7 @@
       "date": "20260801",
       "cat": "EXECUTIVE",
       "price": "210.98",
-      "status": "2"
+      "status": "1"
     },
     "PVHC|30568|20260801|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -206,7 +206,7 @@
       "date": "20260801",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "0"
+      "status": "1"
     },
     "PCAN|42472|20260801|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
