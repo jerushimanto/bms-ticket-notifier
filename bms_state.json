@@ -86,7 +86,23 @@
       "date": "20260801",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "2"
+      "status": "1"
+    },
+    "ACON|46374|20260801|DIAMOND": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "07:10 PM",
+      "date": "20260801",
+      "cat": "DIAMOND",
+      "price": "210.00",
+      "status": "3"
+    },
+    "ACON|46374|20260801|PEARL": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "07:10 PM",
+      "date": "20260801",
+      "cat": "PEARL",
+      "price": "60.00",
+      "status": "0"
     },
     "PVHC|30568|20260801|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -184,13 +200,29 @@
       "price": "66.74",
       "status": "0"
     },
+    "ACVM|54773|20260801|DIAMOND": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "01:20 PM",
+      "date": "20260801",
+      "cat": "DIAMOND",
+      "price": "183.00",
+      "status": "3"
+    },
+    "ACVM|54773|20260801|PEARL": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "01:20 PM",
+      "date": "20260801",
+      "cat": "PEARL",
+      "price": "54.00",
+      "status": "0"
+    },
     "PCAN|42472|20260801|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
       "time": "09:20 AM",
       "date": "20260801",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "1"
+      "status": "0"
     },
     "PCAN|42472|20260801|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -198,7 +230,7 @@
       "date": "20260801",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "3"
+      "status": "2"
     },
     "PVPZ|36037|20260801|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -222,7 +254,7 @@
       "date": "20260801",
       "cat": "ELITE",
       "price": "210.98",
-      "status": "3"
+      "status": "2"
     },
     "PVPZ|36038|20260801|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -247,6 +279,22 @@
       "cat": "BUDGET",
       "price": "61.74",
       "status": "3"
+    },
+    "ACTN|44726|20260801|DIAMOND": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "04:50 PM",
+      "date": "20260801",
+      "cat": "DIAMOND",
+      "price": "210.00",
+      "status": "2"
+    },
+    "ACTN|44726|20260801|PEARL": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "04:50 PM",
+      "date": "20260801",
+      "cat": "PEARL",
+      "price": "60.00",
+      "status": "0"
     },
     "PGRA|21448|20260801|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -294,7 +342,7 @@
       "date": "20260801",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "2"
+      "status": "1"
     },
     "PBRM|23656|20260801|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -334,7 +382,7 @@
       "date": "20260801",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "3"
+      "status": "2"
     },
     "PVHR|39977|20260801|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -350,7 +398,7 @@
       "date": "20260801",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "3"
+      "status": "2"
     },
     "PVHR|39974|20260801|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -366,7 +414,7 @@
       "date": "20260801",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "3"
+      "status": "2"
     },
     "PVHR|39979|20260801|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -382,7 +430,7 @@
       "date": "20260801",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "3"
+      "status": "2"
     },
     "PVHR|39976|20260801|CLASSIC": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -398,8 +446,9 @@
     "20260731": "AVAILABLE",
     "20260801": "BOOKABLE",
     "20260802": "AVAILABLE",
-    "20260803": "NOT_OPEN",
-    "20260804": "NOT_OPEN",
-    "20260805": "NOT_OPEN"
+    "20260803": "AVAILABLE",
+    "20260804": "AVAILABLE",
+    "20260805": "AVAILABLE",
+    "20260806": "AVAILABLE"
   }
 }
