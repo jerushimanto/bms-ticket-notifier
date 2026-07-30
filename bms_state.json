@@ -14,7 +14,7 @@
       "date": "20260801",
       "cat": "FIRST CLASS",
       "price": "211.00",
-      "status": "3"
+      "status": "2"
     },
     "MAYJ|235494|20260801|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
@@ -150,7 +150,7 @@
       "date": "20260801",
       "cat": "NORMAL",
       "price": "61.74",
-      "status": "1"
+      "status": "3"
     },
     "CBMC|10347|20260801|EXECUTIVE": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
@@ -158,7 +158,7 @@
       "date": "20260801",
       "cat": "EXECUTIVE",
       "price": "210.98",
-      "status": "3"
+      "status": "2"
     },
     "CBMC|10349|20260801|NORMAL": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
@@ -166,7 +166,7 @@
       "date": "20260801",
       "cat": "NORMAL",
       "price": "61.74",
-      "status": "1"
+      "status": "3"
     },
     "CBMC|10349|20260801|EXECUTIVE": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
@@ -174,7 +174,7 @@
       "date": "20260801",
       "cat": "EXECUTIVE",
       "price": "210.98",
-      "status": "3"
+      "status": "1"
     },
     "CBMC|10355|20260801|NORMAL": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
@@ -182,7 +182,7 @@
       "date": "20260801",
       "cat": "NORMAL",
       "price": "61.74",
-      "status": "2"
+      "status": "3"
     },
     "CBMC|10355|20260801|EXECUTIVE": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
@@ -190,7 +190,7 @@
       "date": "20260801",
       "cat": "EXECUTIVE",
       "price": "210.98",
-      "status": "3"
+      "status": "1"
     },
     "CBMC|10351|20260801|NORMAL": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
@@ -198,7 +198,7 @@
       "date": "20260801",
       "cat": "NORMAL",
       "price": "61.74",
-      "status": "2"
+      "status": "3"
     },
     "CBMC|10351|20260801|EXECUTIVE": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
@@ -206,7 +206,7 @@
       "date": "20260801",
       "cat": "EXECUTIVE",
       "price": "210.98",
-      "status": "2"
+      "status": "1"
     },
     "CBMC|10266|20260801|NORMAL": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
@@ -214,7 +214,7 @@
       "date": "20260801",
       "cat": "NORMAL",
       "price": "61.74",
-      "status": "0"
+      "status": "3"
     },
     "CBMC|10266|20260801|EXECUTIVE": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
@@ -382,7 +382,7 @@
       "date": "20260801",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "3"
+      "status": "2"
     },
     "PVES|32225|20260801|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -422,7 +422,7 @@
       "date": "20260801",
       "cat": "ELITE",
       "price": "210.98",
-      "status": "0"
+      "status": "1"
     },
     "PVES|32193|20260801|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -646,7 +646,7 @@
       "date": "20260801",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "0"
+      "status": "1"
     },
     "PABC|20597|20260801|CLASSIC": {
       "venue": "PVR: Aerohub, Chennai",
@@ -654,7 +654,7 @@
       "date": "20260801",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "3"
+      "status": "2"
     },
     "PGRA|21448|20260801|PRIME": {
       "venue": "PVR: Grand Galada, Pallavaram",
@@ -671,6 +671,22 @@
       "cat": "CLASSIC",
       "price": "61.74",
       "status": "0"
+    },
+    "PVSR|26377|20260801|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "09:30 AM",
+      "date": "20260801",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "2"
+    },
+    "PVSR|26377|20260801|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "09:30 AM",
+      "date": "20260801",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "3"
     },
     "PVSR|26358|20260801|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -710,7 +726,7 @@
       "date": "20260801",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "0"
+      "status": "1"
     },
     "PGMV|21038|20260801|CLASSIC": {
       "venue": "PVR: Grand Mall, Velachery",
