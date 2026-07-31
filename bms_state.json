@@ -16,6 +16,14 @@
       "price": "61.74",
       "status": "3"
     },
+    "MAYJ|235766|20260801|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "10:30 AM",
+      "date": "20260801",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
+      "status": "2"
+    },
     "MAYJ|235493|20260801|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "11:00 AM",
@@ -112,6 +120,14 @@
       "price": "61.74",
       "status": "3"
     },
+    "MAYJ|235768|20260801|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "05:30 PM",
+      "date": "20260801",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
+      "status": "2"
+    },
     "MAYJ|235496|20260801|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "08:15 PM",
@@ -126,7 +142,7 @@
       "date": "20260801",
       "cat": "SECOND CLASS",
       "price": "61.74",
-      "status": "3"
+      "status": "2"
     },
     "MAYJ|235702|20260801|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
@@ -150,6 +166,14 @@
       "date": "20260801",
       "cat": "FIRST CLASS",
       "price": "211.00",
+      "status": "2"
+    },
+    "MAYJ|235764|20260801|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "09:00 PM",
+      "date": "20260801",
+      "cat": "SECOND CLASS",
+      "price": "61.74",
       "status": "3"
     },
     "MAYJ|235703|20260801|FIRST CLASS": {
@@ -302,7 +326,7 @@
       "date": "20260801",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "1"
+      "status": "0"
     },
     "CBMC|10347|20260801|NORMAL": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
@@ -318,7 +342,7 @@
       "date": "20260801",
       "cat": "EXECUTIVE",
       "price": "210.98",
-      "status": "1"
+      "status": "0"
     },
     "CBMC|10379|20260801|NORMAL": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
@@ -334,7 +358,7 @@
       "date": "20260801",
       "cat": "EXECUTIVE",
       "price": "210.98",
-      "status": "2"
+      "status": "1"
     },
     "CBMC|10349|20260801|NORMAL": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
@@ -390,7 +414,7 @@
       "date": "20260801",
       "cat": "NORMAL",
       "price": "61.74",
-      "status": "1"
+      "status": "0"
     },
     "CBMC|10266|20260801|EXECUTIVE": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
@@ -398,7 +422,7 @@
       "date": "20260801",
       "cat": "EXECUTIVE",
       "price": "210.98",
-      "status": "1"
+      "status": "0"
     },
     "PVES|32161|20260801|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -430,7 +454,7 @@
       "date": "20260801",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "1"
+      "status": "0"
     },
     "PVES|32192|20260801|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -478,7 +502,7 @@
       "date": "20260801",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "2"
+      "status": "0"
     },
     "PVES|32224|20260801|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -494,7 +518,103 @@
       "date": "20260801",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "2"
+      "status": "1"
+    },
+    "PVPZ|36037|20260801|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "09:05 AM",
+      "date": "20260801",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "1"
+    },
+    "PVPZ|36037|20260801|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "09:05 AM",
+      "date": "20260801",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PVPZ|36134|20260801|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "09:10 AM",
+      "date": "20260801",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "0"
+    },
+    "PVPZ|36134|20260801|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "09:10 AM",
+      "date": "20260801",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "1"
+    },
+    "PVPZ|36038|20260801|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "12:10 PM",
+      "date": "20260801",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "0"
+    },
+    "PVPZ|36038|20260801|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "12:10 PM",
+      "date": "20260801",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PVPZ|36040|20260801|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "06:30 PM",
+      "date": "20260801",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "0"
+    },
+    "PVPZ|36040|20260801|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "06:30 PM",
+      "date": "20260801",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PVPZ|36131|20260801|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "11:10 PM",
+      "date": "20260801",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "0"
+    },
+    "PVPZ|36131|20260801|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "11:10 PM",
+      "date": "20260801",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "1"
+    },
+    "AGSM|55076|20260801|DIAMOND": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "11:20 PM",
+      "date": "20260801",
+      "cat": "DIAMOND",
+      "price": "210.00",
+      "status": "3"
+    },
+    "AGSM|55076|20260801|PEARL": {
+      "venue": "AGS Cinemas: Maduravoyal",
+      "time": "11:20 PM",
+      "date": "20260801",
+      "cat": "PEARL",
+      "price": "60.00",
+      "status": "0"
     },
     "INPR|63941|20260801|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -502,7 +622,7 @@
       "date": "20260801",
       "cat": "ELITE",
       "price": "210.98",
-      "status": "1"
+      "status": "0"
     },
     "INPR|63941|20260801|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -510,7 +630,7 @@
       "date": "20260801",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "0"
+      "status": "1"
     },
     "INPR|63942|20260801|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -518,7 +638,7 @@
       "date": "20260801",
       "cat": "ELITE",
       "price": "210.98",
-      "status": "0"
+      "status": "1"
     },
     "INPR|63942|20260801|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -566,7 +686,7 @@
       "date": "20260801",
       "cat": "ELITE",
       "price": "210.98",
-      "status": "1"
+      "status": "0"
     },
     "INPR|63945|20260801|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -575,102 +695,6 @@
       "cat": "BUDGET",
       "price": "61.74",
       "status": "0"
-    },
-    "ACON|46374|20260801|DIAMOND": {
-      "venue": "AGS Cinemas OMR: Navlur",
-      "time": "07:10 PM",
-      "date": "20260801",
-      "cat": "DIAMOND",
-      "price": "210.00",
-      "status": "1"
-    },
-    "ACON|46374|20260801|PEARL": {
-      "venue": "AGS Cinemas OMR: Navlur",
-      "time": "07:10 PM",
-      "date": "20260801",
-      "cat": "PEARL",
-      "price": "60.00",
-      "status": "0"
-    },
-    "PVPZ|36037|20260801|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "09:05 AM",
-      "date": "20260801",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "0"
-    },
-    "PVPZ|36037|20260801|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "09:05 AM",
-      "date": "20260801",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PVPZ|36134|20260801|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "09:10 AM",
-      "date": "20260801",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "0"
-    },
-    "PVPZ|36134|20260801|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "09:10 AM",
-      "date": "20260801",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "2"
-    },
-    "PVPZ|36038|20260801|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:10 PM",
-      "date": "20260801",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "0"
-    },
-    "PVPZ|36038|20260801|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:10 PM",
-      "date": "20260801",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PVPZ|36040|20260801|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "06:30 PM",
-      "date": "20260801",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "0"
-    },
-    "PVPZ|36040|20260801|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "06:30 PM",
-      "date": "20260801",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PVPZ|36131|20260801|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "11:10 PM",
-      "date": "20260801",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "1"
-    },
-    "PVPZ|36131|20260801|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "11:10 PM",
-      "date": "20260801",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "2"
     },
     "PVHR|39977|20260801|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -686,7 +710,7 @@
       "date": "20260801",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "3"
+      "status": "2"
     },
     "PVHR|39974|20260801|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -736,21 +760,21 @@
       "price": "61.74",
       "status": "3"
     },
-    "ACVM|54773|20260801|DIAMOND": {
-      "venue": "AGS Cinemas: Villivakkam",
-      "time": "01:20 PM",
+    "ACON|46374|20260801|DIAMOND": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "07:10 PM",
       "date": "20260801",
       "cat": "DIAMOND",
       "price": "210.00",
-      "status": "0"
+      "status": "1"
     },
-    "ACVM|54773|20260801|PEARL": {
-      "venue": "AGS Cinemas: Villivakkam",
-      "time": "01:20 PM",
+    "ACON|46374|20260801|PEARL": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "07:10 PM",
       "date": "20260801",
       "cat": "PEARL",
       "price": "60.00",
-      "status": "3"
+      "status": "0"
     },
     "PABC|20594|20260801|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
@@ -814,7 +838,7 @@
       "date": "20260801",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "2"
+      "status": "0"
     },
     "PVHC|30568|20260801|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -822,7 +846,7 @@
       "date": "20260801",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "0"
+      "status": "1"
     },
     "PVHC|30568|20260801|CLASSIC": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -864,21 +888,21 @@
       "price": "61.74",
       "status": "0"
     },
-    "ACTN|44726|20260801|DIAMOND": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "04:50 PM",
+    "ACVM|54773|20260801|DIAMOND": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "01:20 PM",
       "date": "20260801",
       "cat": "DIAMOND",
       "price": "210.00",
       "status": "0"
     },
-    "ACTN|44726|20260801|PEARL": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "04:50 PM",
+    "ACVM|54773|20260801|PEARL": {
+      "venue": "AGS Cinemas: Villivakkam",
+      "time": "01:20 PM",
       "date": "20260801",
       "cat": "PEARL",
       "price": "60.00",
-      "status": "0"
+      "status": "3"
     },
     "PSKL|22158|20260801|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
@@ -926,6 +950,22 @@
       "date": "20260801",
       "cat": "CLASSIC",
       "price": "66.74",
+      "status": "0"
+    },
+    "ACTN|44726|20260801|DIAMOND": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "04:50 PM",
+      "date": "20260801",
+      "cat": "DIAMOND",
+      "price": "210.00",
+      "status": "0"
+    },
+    "ACTN|44726|20260801|PEARL": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "04:50 PM",
+      "date": "20260801",
+      "cat": "PEARL",
+      "price": "60.00",
       "status": "0"
     },
     "PVSR|26377|20260801|ELITE": {
