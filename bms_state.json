@@ -262,7 +262,7 @@
       "date": "20260801",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "1"
+      "status": "0"
     },
     "PCAN|42521|20260801|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -526,7 +526,7 @@
       "date": "20260801",
       "cat": "ELITE",
       "price": "210.98",
-      "status": "1"
+      "status": "0"
     },
     "PVPZ|36037|20260801|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -550,7 +550,7 @@
       "date": "20260801",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "1"
+      "status": "0"
     },
     "PVPZ|36038|20260801|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -638,7 +638,7 @@
       "date": "20260801",
       "cat": "ELITE",
       "price": "210.98",
-      "status": "0"
+      "status": "1"
     },
     "INPR|63942|20260801|BUDGET": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
@@ -904,6 +904,22 @@
       "price": "60.00",
       "status": "2"
     },
+    "ACTN|44726|20260801|DIAMOND": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "04:50 PM",
+      "date": "20260801",
+      "cat": "DIAMOND",
+      "price": "210.00",
+      "status": "0"
+    },
+    "ACTN|44726|20260801|PEARL": {
+      "venue": "AGS Cinemas: T. Nagar",
+      "time": "04:50 PM",
+      "date": "20260801",
+      "cat": "PEARL",
+      "price": "60.00",
+      "status": "0"
+    },
     "PSKL|22158|20260801|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
       "time": "09:20 AM",
@@ -926,7 +942,7 @@
       "date": "20260801",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "1"
+      "status": "0"
     },
     "PSKL|22160|20260801|CLASSIC": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
@@ -951,22 +967,6 @@
       "cat": "CLASSIC",
       "price": "66.74",
       "status": "3"
-    },
-    "ACTN|44726|20260801|DIAMOND": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "04:50 PM",
-      "date": "20260801",
-      "cat": "DIAMOND",
-      "price": "210.00",
-      "status": "0"
-    },
-    "ACTN|44726|20260801|PEARL": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "04:50 PM",
-      "date": "20260801",
-      "cat": "PEARL",
-      "price": "60.00",
-      "status": "0"
     },
     "PVSR|26377|20260801|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -1000,22 +1000,6 @@
       "price": "61.74",
       "status": "1"
     },
-    "PGRA|21448|20260801|PRIME": {
-      "venue": "PVR: Grand Galada, Pallavaram",
-      "time": "08:05 PM",
-      "date": "20260801",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "0"
-    },
-    "PGRA|21448|20260801|CLASSIC": {
-      "venue": "PVR: Grand Galada, Pallavaram",
-      "time": "08:05 PM",
-      "date": "20260801",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
-    },
     "PGMV|21038|20260801|PRIME": {
       "venue": "PVR: Grand Mall, Velachery",
       "time": "09:10 AM",
@@ -1045,6 +1029,22 @@
       "time": "01:10 PM",
       "date": "20260801",
       "cat": "BUDGET",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PGRA|21448|20260801|PRIME": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "08:05 PM",
+      "date": "20260801",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "0"
+    },
+    "PGRA|21448|20260801|CLASSIC": {
+      "venue": "PVR: Grand Galada, Pallavaram",
+      "time": "08:05 PM",
+      "date": "20260801",
+      "cat": "CLASSIC",
       "price": "61.74",
       "status": "0"
     }
