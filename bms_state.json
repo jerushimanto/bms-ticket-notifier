@@ -1,60 +1,12 @@
 {
   "shows": {
-    "MAYJ|235495|20260801|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "05:10 PM",
-      "date": "20260801",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "1"
-    },
-    "MAYJ|235495|20260801|SECOND CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "05:10 PM",
-      "date": "20260801",
-      "cat": "SECOND CLASS",
-      "price": "61.74",
-      "status": "3"
-    },
-    "MAYJ|235701|20260801|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "05:30 PM",
-      "date": "20260801",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "1"
-    },
-    "MAYJ|235701|20260801|SECOND CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "05:30 PM",
-      "date": "20260801",
-      "cat": "SECOND CLASS",
-      "price": "61.74",
-      "status": "3"
-    },
-    "MAYJ|235768|20260801|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "05:30 PM",
-      "date": "20260801",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "1"
-    },
-    "MAYJ|235768|20260801|SECOND CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "05:30 PM",
-      "date": "20260801",
-      "cat": "SECOND CLASS",
-      "price": "61.74",
-      "status": "3"
-    },
     "MAYJ|235496|20260801|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "08:15 PM",
       "date": "20260801",
       "cat": "FIRST CLASS",
       "price": "211.00",
-      "status": "1"
+      "status": "0"
     },
     "MAYJ|235496|20260801|SECOND CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
@@ -62,7 +14,7 @@
       "date": "20260801",
       "cat": "SECOND CLASS",
       "price": "61.74",
-      "status": "1"
+      "status": "0"
     },
     "MAYJ|235702|20260801|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
@@ -78,7 +30,7 @@
       "date": "20260801",
       "cat": "SECOND CLASS",
       "price": "61.74",
-      "status": "3"
+      "status": "2"
     },
     "MAYJ|235764|20260801|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
@@ -86,7 +38,7 @@
       "date": "20260801",
       "cat": "FIRST CLASS",
       "price": "211.00",
-      "status": "1"
+      "status": "0"
     },
     "MAYJ|235764|20260801|SECOND CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
@@ -94,7 +46,7 @@
       "date": "20260801",
       "cat": "SECOND CLASS",
       "price": "61.74",
-      "status": "3"
+      "status": "2"
     },
     "MAYJ|235703|20260801|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
@@ -118,7 +70,7 @@
       "date": "20260801",
       "cat": "FIRST CLASS",
       "price": "211.00",
-      "status": "2"
+      "status": "1"
     },
     "MAYJ|235497|20260801|SECOND CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
@@ -152,68 +104,44 @@
       "price": "211.00",
       "status": "1"
     },
-    "PCAN|42522|20260801|PRIME": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "03:30 PM",
+    "MAYJ|235769|20260801|SECOND CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "11:57 PM",
+      "date": "20260801",
+      "cat": "SECOND CLASS",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PVHR|39979|20260801|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "07:40 PM",
       "date": "20260801",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "0"
+      "status": "1"
     },
-    "PCAN|42522|20260801|CLASSIC": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "03:30 PM",
+    "PVHR|39979|20260801|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "07:40 PM",
       "date": "20260801",
       "cat": "CLASSIC",
       "price": "61.74",
       "status": "0"
     },
-    "PCAN|42517|20260801|PRIME": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "10:10 PM",
+    "PVHR|39976|20260801|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "10:50 PM",
       "date": "20260801",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "0"
+      "status": "1"
     },
-    "PCAN|42517|20260801|CLASSIC": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "10:10 PM",
+    "PVHR|39976|20260801|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "10:50 PM",
       "date": "20260801",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "0"
-    },
-    "PCAN|42514|20260801|PRIME": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "11:00 PM",
-      "date": "20260801",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "0"
-    },
-    "PCAN|42514|20260801|CLASSIC": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "11:00 PM",
-      "date": "20260801",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
-    },
-    "CBMC|10351|20260801|NORMAL": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "03:30 PM",
-      "date": "20260801",
-      "cat": "NORMAL",
-      "price": "61.74",
-      "status": "0"
-    },
-    "CBMC|10351|20260801|EXECUTIVE": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "03:30 PM",
-      "date": "20260801",
-      "cat": "EXECUTIVE",
-      "price": "210.98",
       "status": "0"
     },
     "CBMC|10381|20260801|NORMAL": {
@@ -248,97 +176,65 @@
       "price": "210.98",
       "status": "0"
     },
-    "PVES|32193|20260801|ELITE": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "03:50 PM",
+    "PCAN|42517|20260801|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "10:10 PM",
       "date": "20260801",
-      "cat": "ELITE",
+      "cat": "PRIME",
       "price": "210.98",
       "status": "0"
     },
-    "PVES|32193|20260801|BUDGET": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "03:50 PM",
+    "PCAN|42517|20260801|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "10:10 PM",
       "date": "20260801",
-      "cat": "BUDGET",
+      "cat": "CLASSIC",
       "price": "61.74",
       "status": "0"
     },
-    "PVES|32226|20260801|ELITE": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "04:20 PM",
+    "PCAN|42514|20260801|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "11:00 PM",
       "date": "20260801",
-      "cat": "ELITE",
+      "cat": "PRIME",
       "price": "210.98",
       "status": "0"
     },
-    "PVES|32226|20260801|BUDGET": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "04:20 PM",
+    "PCAN|42514|20260801|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "11:00 PM",
       "date": "20260801",
-      "cat": "BUDGET",
+      "cat": "CLASSIC",
       "price": "61.74",
       "status": "0"
     },
-    "PVES|32224|20260801|ELITE": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "10:35 PM",
-      "date": "20260801",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "0"
-    },
-    "PVES|32224|20260801|BUDGET": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "10:35 PM",
-      "date": "20260801",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "0"
-    },
-    "INPR|63943|20260801|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "03:50 PM",
+    "PVPZ|36040|20260801|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "06:30 PM",
       "date": "20260801",
       "cat": "ELITE",
       "price": "210.98",
       "status": "1"
     },
-    "INPR|63943|20260801|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "03:50 PM",
+    "PVPZ|36040|20260801|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "06:30 PM",
       "date": "20260801",
       "cat": "BUDGET",
       "price": "61.74",
       "status": "0"
     },
-    "INPR|63944|20260801|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:10 PM",
+    "PVPZ|36131|20260801|ELITE": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "11:10 PM",
       "date": "20260801",
       "cat": "ELITE",
       "price": "210.98",
       "status": "0"
     },
-    "INPR|63944|20260801|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:10 PM",
-      "date": "20260801",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "0"
-    },
-    "INPR|63945|20260801|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "10:30 PM",
-      "date": "20260801",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "0"
-    },
-    "INPR|63945|20260801|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "10:30 PM",
+    "PVPZ|36131|20260801|BUDGET": {
+      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
+      "time": "11:10 PM",
       "date": "20260801",
       "cat": "BUDGET",
       "price": "61.74",
@@ -360,101 +256,21 @@
       "price": "60.00",
       "status": "0"
     },
-    "PVHR|39974|20260801|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "04:00 PM",
-      "date": "20260801",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "1"
-    },
-    "PVHR|39974|20260801|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "04:00 PM",
-      "date": "20260801",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PVHR|39979|20260801|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "07:40 PM",
-      "date": "20260801",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "0"
-    },
-    "PVHR|39979|20260801|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "07:40 PM",
-      "date": "20260801",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "1"
-    },
-    "PVHR|39976|20260801|PRIME": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "10:50 PM",
-      "date": "20260801",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "1"
-    },
-    "PVHR|39976|20260801|CLASSIC": {
-      "venue": "PVR: Heritage RSL ECR, Chennai",
-      "time": "10:50 PM",
-      "date": "20260801",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PVPZ|36040|20260801|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "06:30 PM",
+    "PVES|32224|20260801|ELITE": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "10:35 PM",
       "date": "20260801",
       "cat": "ELITE",
       "price": "210.98",
       "status": "0"
     },
-    "PVPZ|36040|20260801|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "06:30 PM",
-      "date": "20260801",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "1"
-    },
-    "PVPZ|36131|20260801|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "11:10 PM",
-      "date": "20260801",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "0"
-    },
-    "PVPZ|36131|20260801|BUDGET": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "11:10 PM",
+    "PVES|32224|20260801|BUDGET": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "10:35 PM",
       "date": "20260801",
       "cat": "BUDGET",
       "price": "61.74",
       "status": "0"
-    },
-    "ACON|46374|20260801|DIAMOND": {
-      "venue": "AGS Cinemas OMR: Navlur",
-      "time": "07:10 PM",
-      "date": "20260801",
-      "cat": "DIAMOND",
-      "price": "210.00",
-      "status": "0"
-    },
-    "ACON|46374|20260801|PEARL": {
-      "venue": "AGS Cinemas OMR: Navlur",
-      "time": "07:10 PM",
-      "date": "20260801",
-      "cat": "PEARL",
-      "price": "60.00",
-      "status": "1"
     },
     "PVHC|30570|20260801|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
@@ -486,21 +302,53 @@
       "date": "20260801",
       "cat": "CLASSIC",
       "price": "61.74",
+      "status": "0"
+    },
+    "ACON|46374|20260801|DIAMOND": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "07:10 PM",
+      "date": "20260801",
+      "cat": "DIAMOND",
+      "price": "210.00",
       "status": "1"
     },
-    "PABC|20575|20260801|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "03:55 PM",
+    "ACON|46374|20260801|PEARL": {
+      "venue": "AGS Cinemas OMR: Navlur",
+      "time": "07:10 PM",
       "date": "20260801",
-      "cat": "PRIME",
+      "cat": "PEARL",
+      "price": "60.00",
+      "status": "0"
+    },
+    "INPR|63944|20260801|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:10 PM",
+      "date": "20260801",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "1"
+    },
+    "INPR|63944|20260801|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:10 PM",
+      "date": "20260801",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "0"
+    },
+    "INPR|63945|20260801|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "10:30 PM",
+      "date": "20260801",
+      "cat": "ELITE",
       "price": "210.98",
       "status": "0"
     },
-    "PABC|20575|20260801|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "03:55 PM",
+    "INPR|63945|20260801|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "10:30 PM",
       "date": "20260801",
-      "cat": "CLASSIC",
+      "cat": "BUDGET",
       "price": "61.74",
       "status": "0"
     },
@@ -536,38 +384,6 @@
       "price": "61.74",
       "status": "0"
     },
-    "ACTN|44726|20260801|DIAMOND": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "04:50 PM",
-      "date": "20260801",
-      "cat": "DIAMOND",
-      "price": "210.00",
-      "status": "1"
-    },
-    "ACTN|44726|20260801|PEARL": {
-      "venue": "AGS Cinemas: T. Nagar",
-      "time": "04:50 PM",
-      "date": "20260801",
-      "cat": "PEARL",
-      "price": "60.00",
-      "status": "3"
-    },
-    "PSKL|22160|20260801|PRIME": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "03:35 PM",
-      "date": "20260801",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "0"
-    },
-    "PSKL|22160|20260801|CLASSIC": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "03:35 PM",
-      "date": "20260801",
-      "cat": "CLASSIC",
-      "price": "66.74",
-      "status": "0"
-    },
     "PSKL|22162|20260801|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
       "time": "10:25 PM",
@@ -582,7 +398,7 @@
       "date": "20260801",
       "cat": "CLASSIC",
       "price": "66.74",
-      "status": "1"
+      "status": "0"
     },
     "PVSR|26358|20260801|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
@@ -606,7 +422,7 @@
       "date": "20260801",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "0"
+      "status": "1"
     },
     "PGRA|21448|20260801|CLASSIC": {
       "venue": "PVR: Grand Galada, Pallavaram",
